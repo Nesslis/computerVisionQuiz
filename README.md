@@ -17,5 +17,5 @@ A dynamic and interactive quiz application focused on computer vision and deep l
 
 ## Demo
 
-[View Live Demo](https://computer-vision-quiz.vercel.app)
+[View Live Demo](https://v0-computer-vision-quiz-app.vercel.app/)
 
